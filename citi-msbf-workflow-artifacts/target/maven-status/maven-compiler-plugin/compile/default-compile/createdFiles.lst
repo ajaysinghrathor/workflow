@@ -1,0 +1,4 @@
+com\citi\msbf\workflow\artifact\model\BusinessProcessData.class
+com\citi\msbf\workflow\artifact\model\ProcessData.class
+com\citi\msbf\workflow\artifact\model\ProcessInitiatorType.class
+com\citi\msbf\workflow\artifact\model\LoanData.class
